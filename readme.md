@@ -6,7 +6,7 @@ This project is an extension of our previous AWS Serverless API application. It 
         [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/nikhil--chaudhari/)
         [![Medium](https://img.shields.io/badge/Medium-Writeups-black)](https://medium.com/@nikhil-c)
 
-[![Watch the video](https://github.com/DNcrypter/AWS-serverless-API-application/blob/main/images/youtube_thumbnail.png)](https://www.youtube.com/watch?v=k8ihlx4fJ-I)
+[![Watch the video](https://github.com/DNcrypter/API-Authorizer-and-Rate-limit-setup/blob/main/images/image2.png)](https://www.youtube.com/watch?v=L9zknaA6lD4)
 
 
 ## Introduction
