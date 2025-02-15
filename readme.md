@@ -14,7 +14,7 @@ This project is an extension of our previous AWS Serverless API application. It 
 In this project, we aim to enhance the security and performance of our serverless API application by adding an authorizer, implementing rate limiting, and creating API keys. These measures will help prevent attackers from deleting or updating the content of the database and ensure that the API is used efficiently and securely.
 
 ## Architecture
-[image1]()
+![image1](https://github.com/DNcrypter/API-Authorizer-and-Rate-limit-setup/blob/main/images/image1.png)
 
 The architecture for this project includes the following components:
 - AWS Lambda functions for authorizing API requests
