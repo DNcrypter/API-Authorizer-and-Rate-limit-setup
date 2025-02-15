@@ -9,11 +9,11 @@ This project is an extension of our previous AWS Serverless API application. It 
 [![Watch the video](https://github.com/DNcrypter/API-Authorizer-and-Rate-limit-setup/blob/main/images/image2.png)](https://www.youtube.com/watch?v=L9zknaA6lD4)
 
 
-## Introduction
+## 🍁 Introduction
 
 In this project, we aim to enhance the security and performance of our serverless API application by adding an authorizer, implementing rate limiting, and creating API keys. These measures will help prevent attackers from deleting or updating the content of the database and ensure that the API is used efficiently and securely.
 
-## Architecture
+## ✍ Architecture
 ![image1](https://github.com/DNcrypter/API-Authorizer-and-Rate-limit-setup/blob/main/images/image1.png)
 
 The architecture for this project includes the following components:
@@ -22,7 +22,7 @@ The architecture for this project includes the following components:
 - Amazon DynamoDB for storing API keys and rate limit data
 - AWS CloudWatch for monitoring and logging
 
-## Setup
+## ☑️Setup
 
 ### Prerequisites
 
@@ -38,7 +38,7 @@ The architecture for this project includes the following components:
 
    ```
 
-### Implementation
+### 🍁 Implementation
 * As we already setup API application as micro service. you can refer my last project:
 [![Static Badge](https://img.shields.io/badge/Github-Project-blue)](https://github.com/DNcrypter/AWS-serverless-API-application)
 
