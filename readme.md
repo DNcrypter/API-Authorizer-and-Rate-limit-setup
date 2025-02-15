@@ -42,7 +42,7 @@ The architecture for this project includes the following components:
 * As we already setup API application as micro service. you can refer my last project:
 [![Static Badge](https://img.shields.io/badge/Github-Project-blue)](https://github.com/DNcrypter/AWS-serverless-API-application)
 
-#### Lambda Autherizer
+#### Lambda Authorizer
 * create lambda function using lambda aws service.
 * click on create function.
 * insert function name as "**lambdaAuth**"
